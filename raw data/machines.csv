@@ -1,0 +1,26 @@
+machine_id,machine_name,machine_type,production_line,manufacturer,install_date,status
+M001,Packer 1,Packer,Line 1,Krones,24/02/2023,Idle
+M002,FILLER 2,Filler,Line 1,Krones,2017-07-13,Active
+M003,Conveyor 3,Conveyor,Line 1,Local Fab,2021-09-19,Idle
+M004,Labeller 4,Labeller,Line 1,KHS,2017-09-09,Decommissioned
+M005, Blow Moulder 5 ,Blow Moulder,Line 1,Sidel,2020-09-24,Idle
+M006,Pasteurizer 6,Pasteurizer,Line 1,Tetra Pak,08-12-2024,active
+M007,Packer 7,Packer,Line 2,Krones,2023-09-15,Active
+M008,PASTEURIZER 8,Pasteurizer,Line 2,Tetra Pak,21/01/2021,Active
+M009,Labeller 9,Labeller,Line 2,KHS,2018-11-17,Under Maintenance
+M010,Blow Moulder 10,Blow Moulder,Line 2,Sidel,2017-12-08,Decommissioned
+M011,Filler 11,Filler,Line 2,Krones,02/08/2021,Decommissioned
+M012,Conveyor 12,Conveyor,Line 2,Local Fab,04/08/2023,Active
+M013,Labeller 13,Labeller,Line 3,KHS,2021-02-01,ACTIVE
+M014,filler 14,Filler,Line 3,Krones,07-02-2021,Decommissioned
+M015,Capper 15,Capper,Line 3,Sidel,03/12/2024,active
+M016,Packer 16,Packer,LINE 3,Krones,2022-08-29,Under Maintenance
+M017,Blow Moulder 17,Blow Moulder,LINE 3,Sidel,2018-06-02,ACTIVE
+M018,Conveyor 18,Conveyor,Line 3,Local Fab,30 Jun 2021,Active
+M019,Labeller 19,Labeller,line 4,KHS,2018-11-27,Decommissioned
+M020,Pasteurizer 20,Pasteurizer,L4,Tetra Pak,2023-08-04,active
+M021,Conveyor 21,Conveyor,Line 4,Local Fab,2019-06-09,Idle
+M022,Filler 22,Filler,L4,Krones,2018-07-25,active
+M023,Packer 23,Packer,line 4,Krones,2018-07-31,Active
+M024,Capper 24,Capper,Line 4,Sidel,2022-10-23,active
+M004,Labeller 4,Labeller,Line 1,KHS,2017-09-09,Decommissioned
