@@ -4,7 +4,6 @@ An end-to-end practice project: cleaning a deliberately messy production and ope
 
 The company, **Sparkle Foods**, is fictional: a bottling plant in Abuja that makes water, juices, zobo, tigernut drink, malt drink and ginger shots on 4 production lines and 3 shifts. The data is synthetic (Jan 2025 to Oct 2026).
 
-![Dashboard](images/dashboard.png)
 
 ## What this project shows
 
