@@ -33,11 +33,6 @@ dashboard/       Tableau workbook (.twbx)
 images/          dashboard screenshot
 ```
 
-## How to reproduce
-
-1. Run `sql/00_create_raw_tables.sql` to create the database and empty raw tables.
-2. Import each CSV from `data_raw/` into its table (MySQL Workbench: right-click the table → **Table Data Import Wizard**).
-3. Run the cleaning scripts **in numbered order**:
 
 | Order | Script | Creates | Notes |
 |---|---|---|---|
